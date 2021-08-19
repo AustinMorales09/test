@@ -1,5 +1,5 @@
 const intialState = {
-    url: `http://newsapi.org/v2/everything?q=ai&apiKey=${process.env.REACT_APP_NEWS_KEY}`,
+    url: `https://newsapi.org/v2/everything?q=ai&apiKey=${process.env.REACT_APP_NEWS_KEY}`,
     article: ''
 }
 
